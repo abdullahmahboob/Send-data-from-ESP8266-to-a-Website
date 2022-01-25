@@ -191,23 +191,23 @@ In our webpage's Javascript, we need six things:
 
 To get these, we need to create a project on the Grandeur Dashboard at https://cloud.grandeur.tech/. Here are the steps you can follow:
 
-1. Go to https://cloud.grandeur.tech/ and click on get access to sign up.![Dashboard – signing up](https://user-images.githubusercontent.com/26253942/150967428-4a0893a5-6c02-4623-a063-fd30b2339055.gif)
+1. Go to https://cloud.grandeur.tech/ and click on get access to sign up. ![Dashboard – signing up](https://user-images.githubusercontent.com/26253942/150967428-4a0893a5-6c02-4623-a063-fd30b2339055.gif)
 
-2. Create a **new project**.![Dashboard – creating a new project](https://user-images.githubusercontent.com/26253942/150967606-3c06d8e8-df5e-40ca-a309-b2e5547490aa.gif)
+2. Create a **new project**. ![Dashboard – creating a new project](https://user-images.githubusercontent.com/26253942/150967606-3c06d8e8-df5e-40ca-a309-b2e5547490aa.gif)
 
-3. Add a **new model**.![Dashboard – registering a new model](https://user-images.githubusercontent.com/26253942/150967617-08b35321-98d9-4c4f-857d-da709b223285.gif)
+3. Add a **new model**. ![Dashboard – registering a new model](https://user-images.githubusercontent.com/26253942/150967617-08b35321-98d9-4c4f-857d-da709b223285.gif)
 
-4. Add a **new device**. Copy and save the device ID and token it returns.![Dashboard – registering a new device](https://user-images.githubusercontent.com/26253942/150967623-cdedb74c-4bf8-4aed-b9bb-99f0417e5c61.gif)
+4. Add a **new device**. Copy and save the device ID and token it returns. ![Dashboard – registering a new device](https://user-images.githubusercontent.com/26253942/150967623-cdedb74c-4bf8-4aed-b9bb-99f0417e5c61.gif)
 
-5. Add a **new user**. Copy and save the user email and password you used here.![Dashboard – registering a new user gif](https://user-images.githubusercontent.com/26253942/150967635-dc26c432-499b-4b4f-9dea-b46258cd8c7a.gif)
+5. Add a **new user**. Copy and save the user email and password you used here. ![Dashboard – registering a new user gif](https://user-images.githubusercontent.com/26253942/150967635-dc26c432-499b-4b4f-9dea-b46258cd8c7a.gif)
 
-6. **Pair the device** we created in step 4 with the user we created in step 5.![Dashboard – pairing device to a user](https://user-images.githubusercontent.com/26253942/150967647-90b59379-91bc-499d-aa10-6e85ff456817.gif)
+6. **Pair the device** we created in step 4 with the user we created in step 5. ![Dashboard – pairing device to a user](https://user-images.githubusercontent.com/26253942/150967647-90b59379-91bc-499d-aa10-6e85ff456817.gif)
 
-7. Go to settings, **copy and save the API key** from here.![Dashboard – api key](https://user-images.githubusercontent.com/26253942/150967650-4ed84602-1597-41c0-94e0-10f1d145814d.gif)
+7. Go to settings, **copy and save the API key** from here. ![Dashboard – api key](https://user-images.githubusercontent.com/26253942/150967650-4ed84602-1597-41c0-94e0-10f1d145814d.gif)
 
-8. Generate **new access key**. Copy and save the access key and token it returns.![Dashboard – generating access credentials](https://user-images.githubusercontent.com/26253942/150967670-3c87cf26-f674-47e2-95fd-e91f342e0719.gif)
+8. Generate **new access key**. Copy and save the access key and token it returns. ![Dashboard – generating access credentials](https://user-images.githubusercontent.com/26253942/150967670-3c87cf26-f674-47e2-95fd-e91f342e0719.gif)
 
-9. **Allow the origin** http://localhost:8080 or whatever URL your webpage is served on. We'll see where to find this URL in the next step.![Dashboard – allowing an origin](https://user-images.githubusercontent.com/26253942/150967677-227cd808-3b8f-4eba-861f-08013f406cad.gif)
+9. **Allow the origin** http://localhost:8080 or whatever URL your webpage is served on. We'll see where to find this URL in the next step. ![Dashboard – allowing an origin](https://user-images.githubusercontent.com/26253942/150967677-227cd808-3b8f-4eba-861f-08013f406cad.gif)
 
 
 By doing this, you get access to use Grandeur as your communication broker.
