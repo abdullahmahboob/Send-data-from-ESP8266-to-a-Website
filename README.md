@@ -1,4 +1,6 @@
-# [The Easiest Way to Send Data from ESP8266 to a Webpage](https://www.instructables.com/The-Easiest-Way-to-Send-Data-From-ESP8266-to-a-Web/)
+# The Easiest Way to Send Data from ESP8266 to a Webpage
+
+Find the full article on [Instructable](https://www.instructables.com/The-Easiest-Way-to-Send-Data-From-ESP8266-to-a-Web/) and [Arduino ProjectHub](https://create.arduino.cc/projecthub/projects/b8a348).
 
 There are hundreds of real-world applications that involve sending data from a microcontroller to a website, webpage, or web dashboard. And almost all of such applications prefer to be wireless. In such cases, the ESPxxxx family of WiFi modules is the most commonly used one due to their tiny form factor as compared to Arduinos coupled with WiFi shield.
 
